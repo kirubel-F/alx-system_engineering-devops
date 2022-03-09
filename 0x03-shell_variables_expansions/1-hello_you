@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello My$(logname)"
+echo "hello $(logname)"
