@@ -1,0 +1,2 @@
+find: ‘’: No such file or directory
+wc: invalid zero-length file name
